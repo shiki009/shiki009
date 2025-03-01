@@ -25,5 +25,5 @@ Check out my **homepage** 👉 [portfolio-homepage-neon.vercel.app](https://port
 
 ### 📫 How to Reach Me  
 - 🏗️ **Homepage:** [portfolio-homepage-neon.vercel.app](https://portfolio-homepage-neon.vercel.app/)  
-- 📧 **Email:** [vladislav.sikirjavoi@gmail.com] *(if you want to add it)*  
-- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/vladislav-sikirjavoi/) *(if applicable)*  
+- 📧 **Email:** [vladislav.sikirjavoi@gmail.com]
+- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/vladislav-sikirjavoi/)
